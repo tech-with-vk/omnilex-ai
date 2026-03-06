@@ -11,7 +11,6 @@ back-end/reference-data/*
 
 #files
 .env
-.env-copy
 
 # Virtual environments
 .venv
