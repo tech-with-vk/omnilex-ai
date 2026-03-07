@@ -26,6 +26,7 @@ dependencies = [
     "requests>=2.32.5",
     "sqlalchemy>=2.0.45",
     "streamlit>=1.52.2",
+    "structlog>=25.5.0",
     "uvicorn>=0.40.0",
     "yt-dlp>=2025.1.12",
 ]

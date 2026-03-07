@@ -14,3 +14,6 @@ back-end/reference-data/*
 
 # Virtual environments
 .venv
+
+# System Folders
+.vscode/*
